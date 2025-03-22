@@ -1,3 +1,4 @@
+# Personal-Fitness-Tracker-in-Python
 This is a Personal Fitness Tracker project developed using Python and executed on PyCharm. It is designed to help users monitor their fitness activities, set goals, and track progress over time.
 
 🚀 Features
